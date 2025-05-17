@@ -2,7 +2,7 @@
 	{
 		"title": "Real-Time Analytics",
 		"icon": "chart-pie",
-		"description": "Gain valuable insights instantly with Foxi's real-time analytics. Track performance metrics, user behavior, and campaign effectiveness effortlessly.",
+		"description": "Gain valuable insights instantly with MoneyWeaver's real-time analytics. Track performance metrics, user behavior, and campaign effectiveness effortlessly.",
 		"category": "Analytics"
 	},
 	{
@@ -14,19 +14,19 @@
 	{
 		"title": "Task Management",
 		"icon": "cliboard-document-check",
-		"description": "Efficiently manage tasks and projects with Foxi's intuitive task management tools. Assign, track progress, and collaborate seamlessly.",
-		"category": "Productivity"
+		"description": "Efficiently manage tasks and projects with MoneyWeaver's intuitive task management tools. Assign, track progress, and collaborate seamlessly.",
+		"category": "Finance Management"
 	},
 	{
 		"title": "Third-Party Apps",
 		"icon": "rocket",
-		"description": "Connect Foxi with your favorite tools and apps effortlessly. Streamline workflows and enhance productivity with seamless integrations.",
-		"category": "Productivity"
+		"description": "Connect MoneyWeaver with your favorite tools and apps effortlessly. Streamline workflows and enhance finance management with seamless integrations.",
+		"category": "Finance Management"
 	},
 	{
 		"title": "Mobile Accessibility",
 		"icon": "device-phone-mobile",
-		"description": "Stay productive on the go with Foxi's mobile app. Access key features, collaborate with your team, and manage tasks anytime, anywhere.",
+		"description": "Stay productive on the go with MoneyWeaver's mobile app. Access key features, collaborate with your team, and manage tasks anytime, anywhere.",
 		"category": "Support"
 	},
 	{
@@ -38,13 +38,13 @@
 	{
 		"title": "Robust Data Security",
 		"icon": "shield-check",
-		"description": "Rest assured knowing your data is safe with Foxi's robust security measures. We employ industry-standard protocols to protect your information.",
+		"description": "Rest assured knowing your data is safe with MoneyWeaver's robust security measures. We employ industry-standard protocols to protect your information.",
 		"category": "Security"
 	},
 	{
 		"title": "Scalability",
 		"icon": "arrow-treding-up",
-		"description": "Grow your business with confidence using Foxi's scalable platform. Whether you're a startup or a large enterprise, our solution adapts to your needs.",
+		"description": "Grow your business with confidence using MoneyWeaver's scalable platform. Whether you're a startup or a large enterprise, our solution adapts to your needs.",
 		"category": "Security"
 	},
 	{
@@ -63,7 +63,7 @@
 		"title": "Team Collaboration Tools",
 		"icon": "user-group",
 		"description": "Enhance team collaboration with tools designed for effective communication and project management. Share updates, files, and feedback seamlessly.",
-		"category": "Productivity"
+		"category": "Finance Management"
 	},
 	{
 		"title": "In-App Messaging",
@@ -159,13 +159,13 @@
 		"title": "Customizable Workspaces",
 		"icon": "cursor-arrow-ripple",
 		"description": "Personalize your workspace layout to fit your needs. Adjust and configure your workspace for maximum efficiency and comfort.",
-		"category": "Productivity"
+		"category": "Finance Management"
 	},
 	{
 		"title": "Task Automation",
 		"icon": "rectangle-stack",
 		"description": "Automate routine tasks to improve efficiency and reduce manual work. Set up automated processes to streamline your workflow.",
-		"category": "Productivity"
+		"category": "Finance Management"
 	},
 	{
 		"title": "Accessibility Features",
@@ -183,7 +183,7 @@
 		"title": "Advanced Bug Tracking",
 		"icon": "bug-ant",
 		"description": "Track tasks and projects with advanced tracking features. Monitor progress, set milestones, and manage your projects more effectively.",
-		"category": "Productivity"
+		"category": "Finance Management"
 	},
 	{
 		"title": "Comprehensive Balancer",
@@ -200,8 +200,8 @@
 	{
 		"title": "User Identity Verification",
 		"icon": "identification",
-		"description": "Analyze productivity metrics to optimize performance. Gain insights into team and individual productivity to drive improvements.",
-		"category": "Productivity"
+		"description": "Analyze finance management metrics to optimize performance. Gain insights into team and individual finance management to drive improvements.",
+		"category": "Finance Management"
 	},
 	{
 		"title": "Payment Integrations",

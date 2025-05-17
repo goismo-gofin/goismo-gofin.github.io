@@ -11,7 +11,7 @@ import CTA from '../components/blocks/CTA/BasicDark.astro'
 import featuresData from '../data/json-files/featuresData.json'
 // - Feature Categories
 const featuresAnalytics = featuresData.filter((feature) => feature.category === 'Analytics')
-const featuresProductivity = featuresData.filter((feature) => feature.category === 'Productivity')
+const featuresFinance = featuresData.filter((feature) => feature.category === 'Finance')
 const featuresSecurity = featuresData.filter((feature) => feature.category === 'Security')
 const featuresIntegrations = featuresData.filter((feature) => feature.category === 'Integrations')
 const featuresSupport = featuresData.filter((feature) => feature.category === 'Support')
@@ -19,13 +19,13 @@ const featuresSupport = featuresData.filter((feature) => feature.category === 'S
 // Content
 // - SEO
 const SEO = {
-	title: 'Foxi | Features to Boost Productivity & Security',
+	title: 'MoneyWeaver | Features to Boost Finance Management & Security',
 	description:
-		"Explore Foxi's powerful features designed to enhance productivity, ensure top-notch security, and integrate seamlessly with your favorite tools. Join thousands of satisfied users and transform your workflow with Foxi today!"
+		"Explore MoneyWeaver's powerful features designed to enhance finance management, ensure top-notch security, and integrate seamlessly with your favorite tools. Join thousands of satisfied users and transform your workflow with MoneyWeaver today!"
 }
 // - Page Header
 const header = {
-	title: 'Why you and your team will <strong>love</strong> foxi.',
+	title: 'Why you and your team will <strong>love</strong> MoneyWeaver.',
 	text: 'Streamline your tasks, protect your data, and enjoy working with our tools!'
 }
 ---
@@ -39,14 +39,14 @@ const header = {
 	/>
 	<Feature
 		title="Efficiency Unleashed"
-		text="Streamline tasks and focus on what matters with tools designed to boost your productivity."
+		text="Streamline tasks and focus on what matters with tools designed to boost your finance management."
 		data={featuresSecurity}
 		classes="bg-neutral-50 dark:bg-neutral-900"
 	/>
 	<Feature
 		title="Ultimate Data Protection"
 		text="Keep your data safe with top-notch security measures and real-time threat detection."
-		data={featuresProductivity}
+		data={featuresFinance}
 	/>
 	<Feature
 		title="Seamless Connectivity"
