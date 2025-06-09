@@ -28,8 +28,8 @@ type HighlightBlock = {
 }
 const highlightBlocks: HighlightBlock[] = [
 	{
-		title: 'Complete Project <strong>Visibility</strong>',
-		text: 'Gain complete visibility into your projects and tasks with our comprehensive dashboard. Easily track progress, deadlines, and team performance at a glance. Our dashboard offers real-time project tracking',
+               title: 'Complete Project <strong>Visibility</strong>',
+               text: 'Gain full control of your finances with our real-time dashboard — track spending, set goals, and make smarter money decisions effortlessly.',
 		image: highlight01,
 		imageWidth: highlight01.width,
 		imageHeight: highlight01.height,
@@ -37,8 +37,8 @@ const highlightBlocks: HighlightBlock[] = [
 		imagePosition: 'right'
 	},
 	{
-		title: 'Advanced <strong>Automation</strong> Tools',
-		text: 'Automate repetitive tasks and streamline your workflow with our advanced automation tools. Save time and reduce errors by leveraging automated task assignments, workflow templates, and seamless integration with popular apps and services.',
+               title: 'Advanced <strong>Automation</strong> Tools',
+               text: 'Automate your finances and streamline budgeting with smart tools — save time, reduce errors, and stay on top of your money effortlessly.',
 		image: highlight02,
 		mobileImage: highlight02mobile,
 		imageWidth: highlight02.width,
@@ -46,8 +46,8 @@ const highlightBlocks: HighlightBlock[] = [
 		imagePosition: 'left'
 	},
 	{
-		title: '<strong>Effective</strong> Team Collaboration',
-		text: 'Enhance team communication and collaboration with our seamless tools. Keep everyone on the same page and ensure efficient project execution through real-time messaging, shared document editing, and task comments. ',
+               title: 'Collaborative Financial Planning Made Easy',
+               text: 'Enhance financial planning collaboration with real-time insights, shared goals, and seamless communication — all in one intuitive platform.',
 		image: highlight03,
 		mobileImage: highlight03mobile,
 		imageWidth: highlight03.width,
@@ -66,18 +66,18 @@ const highlightBlocks: HighlightBlock[] = [
 ]
 ---
 
-{
-	highlightBlocks.map((highlight, key) => (
-		<TextImage
-			id={`highlight-${key}`}
-			title={highlight.title}
-			text={highlight.text}
-			image={highlight.image}
-			imageWidth={highlight.imageWidth}
-			imageHeight={highlight.imageHeight}
-			mobileImage={highlight.mobileImage}
-			imagePosition={highlight.imagePosition}
-			classes={key === 0 ? '!pb-0' : key === highlightBlocks.length - 1 ? '!pt-0' : '!py-0'}
-		/>
-	))
-}
+{/*
+        highlightBlocks.map((highlight, key) => (
+                <TextImage
+                        id={`highlight-${key}`}
+                        title={highlight.title}
+                        text={highlight.text}
+                        image={highlight.image}
+                        imageWidth={highlight.imageWidth}
+                        imageHeight={highlight.imageHeight}
+                        mobileImage={highlight.mobileImage}
+                        imagePosition={highlight.imagePosition}
+                        classes={key === 0 ? '!pb-0' : key === highlightBlocks.length - 1 ? '!pt-0' : '!py-0'}
+                />
+        ))
+*/}
